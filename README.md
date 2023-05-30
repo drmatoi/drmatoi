@@ -10,6 +10,7 @@ You can visit and See my projects here or on my
 Website!
 <br>
 drmatoi.github.io
+<div>
 <br>
 feel free to write on Instagram
 @wecrywiki
