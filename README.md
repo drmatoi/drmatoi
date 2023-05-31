@@ -36,4 +36,4 @@ Socials:
 Instagram: @wecrywiki
 Telegram: @mrmatoi
   
-  https://camo.githubusercontent.com/cad9a47d7d0fc7152ee970e75cfac9c60751bf76836d3bf49f34fc9035dbeb04/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d776572766c616426636f6c6f723d626c7565267374796c653d666c617429
+ https://github.com/drmatoi
