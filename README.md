@@ -4,7 +4,7 @@ I`m just a small developer, you can always check my projects here!
 ## Current Projects I work on!
 
 - Matoi´s Site - drmatoi.github.io
-- drmatoi.sh - collection for termux and kali linux!
+- matoi.sh - collection for termux and kali linux!
 
 
 ## Skills [I have none :o]
