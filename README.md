@@ -1,21 +1,37 @@
-Hi, I’m @drmatoi aka. M4T01
-<br>
-• owner and founder of Matoi's Site
-<br>
-• founder of the wecry wiki project
-<br>
-• Reverse Engineering & Modding
-<br>
-You can visit and See my projects here or on my
-Website!
-<br>
-drmatoi.github.io
-<div>
-<br>
-feel free to write on Instagram
-@wecrywiki
+## Hello I´m Mr.Matoi! aka. Dr.Matoi aka M4T01 :D
+I`m just a small developer, you can always check my projects here!
 
-<!---
-drmatoi/drmatoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current Projects I work on!
+
+- Matoi´s Site - drmatoi.github.io
+- drmatoi.sh - collection for termux and kali linux!
+
+
+## Skills [I have none :o]
+
+* `HTML`
+* `CSS`
+* `bash`
+* `JS`
+
+## Things i love! 
+
+* `Reverse Engineering`
+* `APK Modding!`
+
+
+## Yes my name is inspired by a Anime!
+<br>
+<p align="center">
+<img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
+
+
+
+
+#### Thanks for your support! Please check my socials!
+
+<br>
+Socials:
+<br>
+Instagram: @wecrywiki
+Telegram: @mrmatoi
