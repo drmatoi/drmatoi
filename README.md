@@ -1,26 +1,16 @@
-## Hello I´m Mr.Matoi! aka. Dr.Matoi aka M4T01 :D
-I`m just a random guy, you can always check my projects here!
-
+## Hello I´m Mr.Matoi!
+I love justice, privacy, independence and power. I do what I want. 
 ## Current Projects I work on!
 
 - Matoi´s Site - drmatoi.github.io
-- matoi.sh - collection for termux and kali linux!
 
-
-## Skills [I have none :o]
-
-* `HTML`
-* `CSS`
-* `bash`
-* `JS`
-
-## Things i love! 
+## Main occupations 
 
 * `Reverse Engineering`
 * `APK Modding!`
+* `Android Security`
 
-
-## Yes my name is inspired by a Anime!
+## t.me/fuckingleak !
 <br>
 <p align="center">
 <img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
@@ -28,12 +18,9 @@ I`m just a random guy, you can always check my projects here!
 
 
 
-#### Thanks for your support! Please check my socials!
+#### The rich man's war is the poor man's blood.
 
 <br>
-Socials:
-<br>
-Instagram: @wecrywiki
-Telegram: @mrmatoi
+
   
  https://github.com/drmatoi
