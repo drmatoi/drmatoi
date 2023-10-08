@@ -38,11 +38,11 @@
  --- 
   
  ## Contact : 
- <a href=mailto:m4t01@proton.me><img src="https://img.shields.io/badge/gmail-m4t01@proton.me-green?style=for-the-badge" /></a> 
+ <a href=mailto:m4t01@proton.me><img src="https://img.shields.io/badge/gmail-m4t01@proton.me-purple?style=for-the-badge" /></a> 
  <br>
-<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-blue?style=for-the-badge" /></a> 
-  br>
-<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Telegram-Gifoffiziel-blue?style=for-the-badge" /></a> 
+<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-red?style=for-the-badge" /></a> 
+  <br>
+<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Telegram-Gigoffiziel-blue?style=for-the-badge" /></a> 
   
   
  ---     
