@@ -42,7 +42,7 @@
  <br>
 <a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-red?style=for-the-badge" /></a> 
   <br>
-<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Telegram-Gigoffiziel-blue?style=for-the-badge" /></a> 
+<a href=https://t.me/gigoffiziell><img src="https://img.shields.io/badge/Telegram-Gigoffiziel-blue?style=for-the-badge" /></a> 
   
   
  ---     
