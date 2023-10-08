@@ -23,7 +23,7 @@
  <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Nickname-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
   
  <img src="https://img.shields.io/badge/Age-16-brightgreen?style=for-the-badge" > 
- <
+ 
  </p>    
   
  * **If you like my Strg+C and Strg+V please leave a +1 star**  
