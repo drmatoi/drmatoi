@@ -18,12 +18,9 @@ I love justice, privacy, independence and power. I do what I want.
 
 
 
-#### The rich man's war is the poor man's blood.
+#### I don't really know what I'm doing here... 
 
-<br>
 
-  
- https://github.com/drmatoi
 
 <p align="center"> 
    <img width:95%" src="https://media.tenor.com/5NcHgJKFcWkAAAAC/developer-dev-youtube-google.gif"\> 
@@ -33,9 +30,9 @@ I love justice, privacy, independence and power. I do what I want.
  </p>    
   
  <p align=center>   
- <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Author-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
+ <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Nickname-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
   
- <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" > 
+ <img src="https://img.shields.io/badge/Age-16-brightgreen?style=for-the-badge" > 
  <
  </p>    
   
@@ -58,7 +55,7 @@ I love justice, privacy, independence and power. I do what I want.
  ---     
   
  <p align="center">   
- <img src="https://tenor.com/de/view/github-cat-kitty-waiting-loading-gif-25774588"></img> 
+ <img src="https://tenor.com/de/view/github-cat-kitty-waiting-loading-gif-25774588"\>
  </p> 
  <h2 align="center">Visit my GitHub Page!</h2> 
   
