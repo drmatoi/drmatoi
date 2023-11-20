@@ -1,4 +1,4 @@
-## Hello I´m Mr.Matoi!
+## Hello I´m Mr.Matoi aka M4T01!
 
 ##
 <br>
@@ -26,7 +26,7 @@
  
  </p>    
   
- * **If you like my Strg+C and Strg+V please leave a +1 star**  
+ * **If you like my work please leave a +1 star**  
   
  
 
