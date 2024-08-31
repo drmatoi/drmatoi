@@ -37,7 +37,9 @@
   
  ---     
   
- <p align="center">   
+
+
+<br> ![drmatoi GitHub stats](https://github-readme-stats.vercel.app/api?username=drmatoi&show_icons=true&theme=midnight-purple) ![AliranTi Github Languages](https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=drmatoi&hide=jupyter%20notebook)  
  
 
   
