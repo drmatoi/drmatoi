@@ -3,12 +3,10 @@
 ##
 <br>
 <p align="center">
-<img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
+
+![ForUDHtD_400x400](https://github.com/user-attachments/assets/a163941b-4b34-4ebb-8b39-1902196a6a64)
 
 
-
-
-#### Welcome Welcome Welcome
 
 
 
