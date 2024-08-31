@@ -2,18 +2,10 @@
 
 <br>
 <p align="center"> 
-   <img width:95%" src="https://github.com/user-attachments/assets/a163941b-4b34-4ebb-8b39-1902196a6a64"\> 
+   <img width:95%" src="https://pbs.twimg.com/media/GWFF1dCXcAA3rpi?format=jpg&name=900x900"\> 
  </p> 
 
 
-
-
-
-
-<p align="center"> 
-   <img width:95%" src="https://media.tenor.com/5NcHgJKFcWkAAAAC/developer-dev-youtube-google.gif"\> 
- </p> 
- <h1 align="center">Dr.Matoi</h1><p align="center"> 
  
  </p>    
   
