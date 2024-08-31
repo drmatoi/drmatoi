@@ -1,4 +1,5 @@
-${\textsf{\color{blue}SLAVA}}$
+${\textsf{\color{blue}SLAVA}}$ <br>
+${\textsf{\color{yellow}UKRAINA}}$ 
 
 <br>
 <p align="center"> 
