@@ -15,12 +15,6 @@
   
  
 
- ---  
- ## Disclaimer 
- <b>
- All things here are for Educational and Internal use ONLY.</b> 
-  
- --- 
   
  ## Contact and Information: 
 
