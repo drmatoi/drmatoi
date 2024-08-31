@@ -3,7 +3,7 @@ ${\textsf{\color{yellow}UKRAINA}}$
 
 <br>
 <p align="center"> 
-   <img width:95%" src="https://x.com/i/status/1826719380803047434"\> 
+   <img width:95%" src="https://pbs.twimg.com/media/GWNwWqLXEAADsoi?format=jpg&name=small"\> 
 
   
  
