@@ -1,4 +1,4 @@
-${\textsf{\color{lightgreen}Green}}$
+${\textsf{\color{blue}SLAVA}}$
 
 <br>
 <p align="center"> 
