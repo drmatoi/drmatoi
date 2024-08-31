@@ -22,7 +22,7 @@
  <p align=center>   
  <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Nickname-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
   
- <img src="https://img.shields.io/badge/Age-16-brightgreen?style=for-the-badge" > 
+ <img src="https://img.shields.io/badge/Age-17-brightgreen?style=for-the-badge" > 
  
  </p>    
   
@@ -42,7 +42,7 @@
  <br>
 <a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-red?style=for-the-badge" /></a> 
   <br>
-<a href=https://t.me/gigoffiziell><img src="https://img.shields.io/badge/Telegram-Gigoffiziel-blue?style=for-the-badge" /></a> 
+<a href=https://t.me/weh8division><img src="https://img.shields.io/badge/Telegram-WEH8Division-blue?style=for-the-badge" /></a> 
   
   
  ---     
