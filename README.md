@@ -1,17 +1,9 @@
-## Hello I´m M4t01, but you can call me Matoi
+<p align="center">Hello I´m M4t01, but you can call me Matoi </p>
 
 <br>
 <p align="center"> 
    <img width:95%" src="https://pbs.twimg.com/media/GWFF1dCXcAA3rpi?format=jpg&name=900x900"\> 
- </p> 
 
-
- 
- </p>    
-  
- 
-  
- * **If you like my work please leave a +1 star**  
   
  
 
