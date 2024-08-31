@@ -9,12 +9,7 @@
  
  </p>    
   
- <p align=center>   
- <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Nickname-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
-  
- <img src="https://img.shields.io/badge/Age-17-brightgreen?style=for-the-badge" > 
  
- </p>    
   
  * **If you like my work please leave a +1 star**  
   
@@ -29,10 +24,16 @@
   
  ## Contact : 
  <a href=mailto:m4t01@proton.me><img src="https://img.shields.io/badge/gmail-m4t01@proton.me-purple?style=for-the-badge" /></a> 
- <br>
+
 <a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-red?style=for-the-badge" /></a> 
-  <br>
+  
 <a href=https://t.me/weh8division><img src="https://img.shields.io/badge/Telegram-WEH8Division-blue?style=for-the-badge" /></a> 
+<p align=center>   
+ <a href=https://github.com/drmatoi><img src="https://img.shields.io/badge/Nickname-DrMatoi-red.svg?style=for-the-badge&label=Author" /></a> 
+  
+ <img src="https://img.shields.io/badge/Age-17-brightgreen?style=for-the-badge" > 
+ 
+ </p>    
   
   
  ---     
