@@ -1,4 +1,4 @@
-<font color="blue"> SLAVA </font> <font color="yellow"> UKRAINA</font>
+${\textsf{\color{lightgreen}Green}}$
 
 <br>
 <p align="center"> 
