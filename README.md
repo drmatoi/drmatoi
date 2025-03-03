@@ -11,7 +11,7 @@ ${\textsf{\color{yellow}UKRAINA}}$
   
  ## Contact and Information: 
 
-<a href=https://twitter.com/drmatoi><img src="https://img.shields.io/badge/Twitter-@drmatoi-red?style=for-the-badge" /></a> <a href=https://t.me/drmatoi><img src="https://img.shields.io/badge/Telegram-drmatoi-blue?style=for-the-badge" /></a> 
+ <a href=https://t.me/drmatoi><img src="https://img.shields.io/badge/Telegram-drmatoi-blue?style=for-the-badge" /></a> 
  <img src="https://img.shields.io/badge/Age-17-brightgreen?style=for-the-badge" >  <a href=mailto:m4t01@proton.me><img src="https://img.shields.io/badge/gmail-m4t01@proton.me-purple?style=for-the-badge" /></a> 
  
  </p>    
