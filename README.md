@@ -1,5 +1,5 @@
-${\textsf{\color{blue}SLAVA}}$ <br>
-${\textsf{\color{yellow}UKRAINA}}$ 
+${\textsf{\color{blue}EUROPA!}}$ <br>
+
 
 <br>
 <p align="center"> 
